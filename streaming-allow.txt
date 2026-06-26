@@ -1,3 +1,4 @@
+dotnet.microsoft.com
 aka.ms
 download.microsoft.com
 go.microsoft.com
