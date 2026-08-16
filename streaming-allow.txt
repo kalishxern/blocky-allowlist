@@ -1,3 +1,4 @@
+cdn.jsdelivr.net
 linkedin.com
 facebook.com
 windowsupdate.microsoft.com
