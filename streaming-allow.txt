@@ -1,4 +1,5 @@
 google.com
+www.google.com
 cdn.jsdelivr.net
 linkedin.com
 facebook.com
